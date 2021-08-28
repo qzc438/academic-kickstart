@@ -12,6 +12,8 @@ tags:
   - Google
   - Apple
   - Microsoft
+categories:
+  - Academic
 image:
   filename: ""
   focal_point: Smart

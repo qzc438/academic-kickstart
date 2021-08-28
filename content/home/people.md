@@ -1,5 +1,5 @@
 ---
-widget: about
+widget: people
 
 # Activate this widget? true/false
 active: true

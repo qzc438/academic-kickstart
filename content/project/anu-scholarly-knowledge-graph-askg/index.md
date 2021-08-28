@@ -6,7 +6,7 @@ featured: true
 tags:
   - Knowledge Graph
   - Ontology Engineering
-external_link: not active
+external_link: https://anu-knowledge-graph-engineering-group.netlify.app/project/anu-scholarly-knowledge-graph-askg/
 image:
   filename: ""
   focal_point: Smart

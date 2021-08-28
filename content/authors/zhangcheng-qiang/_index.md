@@ -1,6 +1,6 @@
 ---
 title: Zhangcheng Qiang
-role: PhD Student
+role: ""
 avatar_filename: profile.jpg
 social: []
 superuser: false

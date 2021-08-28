@@ -8,7 +8,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 70
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Meet the Team

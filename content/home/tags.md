@@ -1,11 +1,11 @@
 ---
 widget: tag_cloud
-widget_id: Not Active
+widget_id: not active
 headless: true
 weight: 200
 title: Popular Topics
 subtitle: ""
-active: true
+active: false
 content:
   taxonomy: tags
   count: 20

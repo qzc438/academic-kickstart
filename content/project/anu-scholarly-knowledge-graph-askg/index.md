@@ -4,7 +4,8 @@ date: 2021-08-28T13:47:00.161Z
 draft: false
 featured: true
 tags:
-  - Ontology
+  - Knowledge Graph
+  - Ontology Engineering
 external_link: ASKG
 image:
   filename: ""

@@ -1,72 +1,46 @@
 ---
-# Display name
 title: Armin Haller
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
 role: Associate Professor
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Australian National University
-  url: https://www.anu.edu.au/
-
-# Short bio (displayed in user profile at end of posts)
-bio: Father, husband, Linked data enthusiast extraordinaire, long time Twitter denier, Evangelist @W3CAustralia
-
-# Interests to show in About widget
+bio: Father, husband, Linked data enthusiast extraordinaire, long time Twitter
+  denier, Evangelist @W3CAustralia
 interests:
-- Knowledge Graph Engineering
-- Ontololgy Engineering
-- Semantic Web
-
-# Education to show in About widget
+  - Knowledge Graph Engineering
+  - Ontololgy Engineering
+  - Semantic Web
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/rminHaller
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com.au/citations?hl=en&user=BehUprAAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/ahaller/
+organizations:
+  - name: Australian National University
+    url: https://www.anu.edu.au/
 education:
   courses:
-  - course: MBA (Executive)
-    institution: University of New South Wales, Sydney, Australia
-    year: 2017
-  - course: PhD in Computer Science
-    institution: National University of Ireland, Galway
-    year: 2009
-  - course: Magister in Business Consultancy
-    institution: University of Applied Sciences Wiener Neustadt, Austria
-    year: 2003
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/rminHaller
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.com.au/citations?hl=en&user=BehUprAAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/ahaller/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: MBA (Executive)
+      institution: University of New South Wales, Sydney, Australia
+      year: 2017
+    - course: PhD in Computer Science
+      institution: National University of Ireland, Galway
+      year: 2009
+    - course: Magister in Business Consultancy
+      institution: University of Applied Sciences Wiener Neustadt, Austria
+      year: 2003
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
+user_groups:
+  - Team Leader
 highlight_name: true
 ---
 

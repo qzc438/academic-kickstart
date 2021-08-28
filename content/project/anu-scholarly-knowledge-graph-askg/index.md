@@ -6,7 +6,7 @@ featured: true
 tags:
   - Knowledge Graph
   - Ontology Engineering
-external_link: ASKG
+external_link: https://cecs.anu.edu.au/research/student-research-projects/anu-scholarly-knowledge-graph-askg
 image:
   filename: ""
   focal_point: Smart

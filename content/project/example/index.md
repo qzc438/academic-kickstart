@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 slides: example
 url_pdf: ""
 summary: An example of using the in-built project page.

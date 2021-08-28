@@ -1,8 +1,17 @@
 ---
 widget: people
-headless: true  # This file represents a page section.
+
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 20
 
 # ... Put Your Section Options Here (title etc.) ...
+title: Meet the Team
 
 content:
   # Choose which groups/teams of users to display.

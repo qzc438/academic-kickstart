@@ -12,10 +12,14 @@ content:
   filter_button:
     - name: All
       tag: "*"
+    - name: Knowledge Graph
+      tag: Knowledge Graph
+    - name: Ontology Engineering
+      tag: Ontology Engineering
     - name: Deep Learning
       tag: Deep Learning
     - name: Other
-      tag: Demo
+      tag: Other
 design:
   columns: "2"
   view: 2

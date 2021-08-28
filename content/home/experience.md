@@ -1,6 +1,6 @@
 ---
 widget: experience
-active: true
+active: false
 date_format: Jan 2006
 experience:
   - title: CEO
@@ -24,7 +24,7 @@ experience:
     date_start: 2016-01-01
     date_end: 2020-12-31
     description: Taught electronic engineering and researched semiconductor physics.
-widget_id: Not Active
+widget_id: not active
 headless: true
 weight: 200
 title: Experience

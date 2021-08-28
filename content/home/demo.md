@@ -3,9 +3,9 @@ advanced:
   css_style: ""
   css_class: ""
 widget: blank
-widget_id: only use for demo
+widget_id: not active
 headless: true
-weight: 15
+weight: 200
 title: Academic Template
 subtitle: ""
 active: false

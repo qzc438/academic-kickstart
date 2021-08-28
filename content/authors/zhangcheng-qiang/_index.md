@@ -1,7 +1,7 @@
 ---
 title: Zhangcheng Qiang
 role: ""
-avatar_filename: profile-small.jpg
+avatar_filename: ""
 social: []
 superuser: false
 user_groups:

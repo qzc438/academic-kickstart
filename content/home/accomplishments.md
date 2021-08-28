@@ -1,6 +1,6 @@
 ---
 widget: accomplishments
-active: true
+active: false
 date_format: Jan 2006
 item:
   - certificate_url: https://www.coursera.org
@@ -27,9 +27,9 @@ item:
     organization_url: https://www.datacamp.com
     title: Object-Oriented Programming in R
     url: ""
-widget_id: order 4
+widget_id: not active
 headless: true
-weight: 40
+weight: 200
 title: Accomplish&shy;ments
 subtitle: null
 design:

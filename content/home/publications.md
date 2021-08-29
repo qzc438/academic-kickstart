@@ -1,10 +1,11 @@
 ---
 widget: pages
-widget_id: order 5
+widget_id: order 6
 headless: true
-weight: 50
+weight: 60
 title: All Publications
 subtitle: ""
+active: true
 content:
   page_type: publication
   count: 5

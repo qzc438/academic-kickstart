@@ -5,9 +5,9 @@ avatar_filename: profile.png
 social:
   - display:
       header: false
-    icon_pack: fas
+    icon_pack: fab
     link: https://scholar.google.com.au/
-    icon: graduation-cap
+    icon: aws
 organizations: []
 superuser: false
 user_groups:

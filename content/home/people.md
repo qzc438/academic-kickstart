@@ -12,7 +12,7 @@ content:
     - PhD Student
     - Alumni
 design:
-  show_social: false
+  show_social: true
   show_interests: true
   show_role: true
   show_organizations: true

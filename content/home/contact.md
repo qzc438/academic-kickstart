@@ -1,10 +1,11 @@
 ---
 widget: contact
-widget_id: order 7
+widget_id: order 9
 headless: true
-weight: 70
+weight: 90
 title: Contact
 subtitle: null
+active: true
 content:
   autolink: true
   form:

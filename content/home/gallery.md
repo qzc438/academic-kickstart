@@ -7,7 +7,7 @@ title: Gallery
 subtitle: null
 active: true
 design:
-  columns: "1"
+  columns: "2"
 ---
 
 {{< gallery album="example" >}}

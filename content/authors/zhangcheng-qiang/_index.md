@@ -5,9 +5,9 @@ avatar_filename: profile.png
 social:
   - display:
       header: false
-    icon_pack: fab
+    icon_pack: fas
     link: www.google.com
-    icon: <i class="fab fa-dev"></i>
+    icon: graduation-cap
 superuser: false
 user_groups:
   - PhD Student

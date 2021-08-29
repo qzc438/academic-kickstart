@@ -1,6 +1,7 @@
 ---
 title: Armin Haller
 role: Associate Professor
+avatar_filename: avatar.jpg
 bio: Father, husband, Linked data enthusiast extraordinaire, long time Twitter
   denier, Evangelist @W3CAustralia
 interests:

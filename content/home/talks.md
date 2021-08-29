@@ -1,10 +1,11 @@
 ---
 widget: pages
-widget_id: not active
+widget_id: order 3
 headless: true
-weight: 70
+weight: 30
 title: Recent & Upcoming Talks
 subtitle: null
+active: true
 content:
   page_type: event
   count: 5

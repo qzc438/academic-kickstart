@@ -6,7 +6,7 @@ social:
   - display:
       header: false
     icon_pack: fas
-    link: https://scholar.google.com.au/citations?hl=en&user=BehUprAAAAAJ
+    link: https://scholar.google.com.au/
     icon: graduation-cap
 organizations: []
 superuser: false

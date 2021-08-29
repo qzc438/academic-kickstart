@@ -5,17 +5,17 @@ weight: 0
 title: Skills
 subtitle: null
 feature:
-  - description: 90%
+  - description: 100%
     icon: r-project
     icon_pack: fab
-    name: R
+    name: Australian National University
   - description: 100%
     icon: chart-line
     icon_pack: fas
-    name: Statistics
-  - description: 10%
+    name: College of Engineering & Computer Science
+  - description: 100%
     icon: camera-retro
     icon_pack: fas
-    name: Photography
+    name: School of Data Science
 widget_id: not active
 ---

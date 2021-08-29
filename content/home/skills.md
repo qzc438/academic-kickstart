@@ -2,7 +2,7 @@
 widget: featurette
 headless: false
 weight: 0
-title: Skills
+title: Organisations
 subtitle: null
 feature:
   - description: 100%

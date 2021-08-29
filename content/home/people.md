@@ -10,6 +10,7 @@ content:
     - Team Leader
     - Postdoctoral Research Fellow
     - PhD Student
+    - Alumni
 design:
   show_social: false
   show_interests: true

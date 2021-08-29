@@ -1,8 +1,8 @@
 ---
 widget: portfolio
-widget_id: order 3
+widget_id: order 4
 headless: true
-weight: 30
+weight: 40
 title: Projects
 subtitle: ""
 active: true

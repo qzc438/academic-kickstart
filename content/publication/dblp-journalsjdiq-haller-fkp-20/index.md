@@ -32,7 +32,7 @@ featured: true
 categories: []
 image:
   caption: ""
-  focal_point: TOP
+  focal_point: ""
   preview_only: false
   filename: avatar.jpg
 summary: ""

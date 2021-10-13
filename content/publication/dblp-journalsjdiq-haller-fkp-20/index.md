@@ -31,10 +31,10 @@ url_pdf: https://doi.org/10.1145/3369875
 featured: true
 categories: []
 image:
-  caption: ""
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: ""
   preview_only: false
-  filename: https://unsplash.com/photos/pLCdAaMFLTE
+  filename: ""
 summary: ""
 lastmod: 2021-10-13T20:02:01+11:00
 title: What Are Links in Linked Open Data? A Characterization and Evaluation of

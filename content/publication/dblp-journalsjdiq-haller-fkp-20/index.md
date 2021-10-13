@@ -33,7 +33,7 @@ categories: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
   filename: featured.jpg
 summary: ""
 lastmod: 2021-10-13T20:02:01+11:00

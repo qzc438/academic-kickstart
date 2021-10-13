@@ -32,7 +32,7 @@ featured: true
 categories: []
 image:
   caption: ""
-  focal_point: ""
+  focal_point: Bottom
   preview_only: false
   filename: featured.jpg
 summary: ""

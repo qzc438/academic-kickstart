@@ -3,7 +3,7 @@ title: An example conference paper
 publication_types:
   - "1"
 authors:
-  - admin
+  - Armin Haller
   - Robert Ford
 publication_short: In *ICW*
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere

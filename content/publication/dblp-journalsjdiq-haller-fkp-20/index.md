@@ -34,7 +34,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: ""
   preview_only: false
-  filename: hallerfkp20.png
+  filename: featured.jpg
 summary: ""
 lastmod: 2021-10-13T20:02:01+11:00
 title: What Are Links in Linked Open Data? A Characterization and Evaluation of

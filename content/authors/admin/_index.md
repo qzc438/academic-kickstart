@@ -1,5 +1,5 @@
 ---
-title: Armin Haller
+title: Admin
 role: Associate Professor
 avatar_filename: avatar.jpg
 bio: Father, husband, Linked data enthusiast extraordinaire, long time Twitter

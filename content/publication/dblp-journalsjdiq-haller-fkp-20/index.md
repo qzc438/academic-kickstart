@@ -31,7 +31,7 @@ url_pdf: https://doi.org/10.1145/3369875
 featured: true
 categories: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  caption: ""
   focal_point: ""
   preview_only: false
   filename: featured.jpg

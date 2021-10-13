@@ -8,9 +8,8 @@ active: true
 content:
   user_groups:
     - Team Leader
-    - Postdoctoral Research Fellow
-    - PhD Student
-    - Alumni
+    - Current Member
+    - Former Member
 design:
   show_social: true
   show_interests: true

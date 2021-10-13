@@ -14,7 +14,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
   arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
   eleifend gravida.
-draft: true
+draft: false
 featured: false
 tags: []
 slides: example
@@ -37,9 +37,9 @@ doi: ""
 publication: In *Wowchemy Conference*
 projects:
   - example
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---

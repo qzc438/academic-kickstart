@@ -20,7 +20,7 @@ tags: []
 slides: example
 url_pdf: ""
 image:
-  caption: ""
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
   filename: featured.jpg

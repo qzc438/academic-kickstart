@@ -34,7 +34,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: featured.jpg
+  filename: capture.jpg
 summary: ""
 lastmod: 2021-10-13T20:02:01+11:00
 title: What Are Links in Linked Open Data? A Characterization and Evaluation of

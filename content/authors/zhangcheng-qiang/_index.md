@@ -11,5 +11,5 @@ social:
 organizations: []
 superuser: false
 user_groups:
-  - PhD Student
+  - Current Member
 ---

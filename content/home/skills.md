@@ -1,7 +1,7 @@
 ---
 widget: featurette
 headless: false
-weight: 200
+weight: 80
 title: Organisations
 subtitle: null
 feature:

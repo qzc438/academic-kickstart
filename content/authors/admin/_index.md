@@ -26,8 +26,6 @@ social:
 organizations:
   - name: Australian National University
     url: https://www.anu.edu.au/
-education:
-  courses: []
 email: ""
 superuser: true
 user_groups: []

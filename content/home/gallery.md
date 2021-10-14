@@ -5,7 +5,7 @@ headless: true
 weight: 200
 title: Gallery
 subtitle: null
-active: true
+active: false
 design:
   columns: "2"
 ---

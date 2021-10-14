@@ -1,8 +1,8 @@
 ---
 widget: people
-widget_id: order 7
+widget_id: order 2
 headless: true
-weight: 70
+weight: 20
 title: Meet Our Team
 active: true
 content:

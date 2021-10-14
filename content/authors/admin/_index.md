@@ -3,7 +3,7 @@ title: Knowledge Graph Engineering Group
 role: ""
 avatar_filename: avatar.jpg
 bio: ""
-research areas:
+interests:
   - Knowledge Graph Engineering
   - Ontololgy Engineering
   - Semantic Web

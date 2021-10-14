@@ -1,8 +1,8 @@
 ---
 widget: blank
-widget_id: order 8
+widget_id: not active
 headless: true
-weight: 80
+weight: 200
 title: Gallery
 subtitle: null
 active: true

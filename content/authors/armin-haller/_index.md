@@ -26,7 +26,7 @@ social:
     icon: graduation-cap
   - display:
       header: false
-    link: https://github.com/
+    link: https://github.com/arminhaller
     icon_pack: fab
     icon: github
   - display:

@@ -1,8 +1,8 @@
 ---
 widget: pages
-widget_id: order 2
+widget_id: order 6
 headless: true
-weight: 20
+weight: 60
 title: Recent Posts
 subtitle: null
 active: true

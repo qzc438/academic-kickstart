@@ -11,29 +11,7 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-<!DOCTYPE html>
-
-<html>
-  <head>
-    <title>Locator</title>
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
-    <script src="https://www.gstatic.com/external_hosted/handlebars/v4.7.6/handlebars.min.js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-    <style>
-      html,
-      body {
-        height: 100%;
-        margin: 0;
-        padding: 0;
-      }
-
-```
-
-```
-
-  </head>
-  <body>
+<body>
     <div id="map-container">
       <div id="locations-panel">
         <div id="locations-panel-list">
@@ -64,4 +42,3 @@ design:
     </div>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBD0nVLmY83UXH372B3nJBScWhQIFIzE-4&callback=initMap&libraries=places,geometry&channel=GMPSB_locatorplus_v4_cABCDE" async defer></script>
   </body>
-</html>

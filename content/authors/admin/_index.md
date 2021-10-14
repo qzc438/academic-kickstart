@@ -16,7 +16,7 @@ social:
     link: https://scholar.google.com.au/citations?hl=en&user=BehUprAAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/
+    link: https://github.com/arminhaller
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ahaller/

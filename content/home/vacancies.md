@@ -2,7 +2,7 @@
 widget: blank
 widget_id: Vacancies
 headless: true
-weight: 110
+weight: 90
 title: Vacancies
 active: true
 design:

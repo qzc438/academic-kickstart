@@ -29,7 +29,7 @@ item:
     url: ""
 widget_id: not active
 headless: true
-weight: 200
+weight: 1000
 title: Accomplish&shy;ments
 subtitle: null
 design:

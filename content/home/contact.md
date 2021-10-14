@@ -1,8 +1,8 @@
 ---
 widget: contact
-widget_id: order 9
+widget_id: order 8
 headless: true
-weight: 90
+weight: 80
 title: Contact
 subtitle: null
 active: true

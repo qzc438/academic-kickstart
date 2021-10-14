@@ -1,5 +1,6 @@
 ---
 title: Alyssa Shuang Sha
+role: PhD Student
 avatar_filename: avatar.jpg
 social: []
 superuser: false

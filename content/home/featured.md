@@ -1,6 +1,6 @@
 ---
 widget: featured
-widget_id: order 3
+widget_id: Featured Publications
 headless: true
 weight: 30
 title: Featured Publications

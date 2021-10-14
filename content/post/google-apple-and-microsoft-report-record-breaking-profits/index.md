@@ -7,7 +7,7 @@ date: 2021-08-28T13:33:30.119Z
 draft: false
 featured: true
 authors:
-  - admin
+  - armin-haller
 tags:
   - Google
   - Apple

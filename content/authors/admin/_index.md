@@ -1,5 +1,5 @@
 ---
-title: Admin
+title: Knowledge Graph Engineering Group
 role: ""
 avatar_filename: avatar.jpg
 bio: ""

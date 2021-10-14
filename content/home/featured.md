@@ -1,8 +1,8 @@
 ---
 widget: featured
-widget_id: order 5
+widget_id: order 3
 headless: true
-weight: 50
+weight: 30
 title: Featured Publications
 subtitle: ""
 active: true

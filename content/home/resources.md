@@ -1,6 +1,6 @@
 ---
 widget: blank
-widget_id: resources
+widget_id: Resources
 headless: true
 weight: 80
 title: Resources

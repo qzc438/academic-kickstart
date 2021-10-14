@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: order 4
+widget_id: All Publications
 headless: true
 weight: 40
 title: All Publications

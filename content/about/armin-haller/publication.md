@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Publication"
+title = "Recent Publications"
 subtitle = ""
 
 [content]
@@ -36,7 +36,7 @@ subtitle = ""
     enable = false
 
 [design]
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List

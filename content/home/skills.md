@@ -1,7 +1,7 @@
 ---
 widget: featurette
 headless: false
-weight: 80
+weight: 70
 title: Organisations
 subtitle: null
 feature:
@@ -18,4 +18,5 @@ feature:
     icon_pack: fas
     name: School of Data Science
 widget_id: not active
+active: true
 ---

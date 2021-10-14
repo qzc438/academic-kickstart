@@ -1,6 +1,6 @@
 ---
 title: Pouya Ghiasnezhad Omran
-role: ""
+role: Postdoctoral Research Fellow
 avatar_filename: avatar.jpg
 social: []
 superuser: false

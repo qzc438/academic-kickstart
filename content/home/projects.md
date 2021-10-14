@@ -1,6 +1,6 @@
 ---
 widget: portfolio
-widget_id: order 5
+widget_id: Projects
 headless: true
 weight: 50
 title: Projects

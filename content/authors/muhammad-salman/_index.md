@@ -1,5 +1,6 @@
 ---
 title: Muhammad Salman
+role: PhD Student
 avatar_filename: avatar.jpg
 social: []
 superuser: false

@@ -9,6 +9,9 @@ interests:
   - Ontololgy Engineering
   - Semantic Web
 social: []
+organizations:
+  - name: Australian National University
+    url: https://www.anu.edu.au/
 superuser: false
 user_groups:
   - Team Leader

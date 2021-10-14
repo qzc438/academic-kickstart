@@ -3,6 +3,7 @@ widget: blank
 widget_id: Map
 headless: true
 weight: 90
+title: Map
 active: true
 design:
   columns: "2"

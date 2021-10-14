@@ -141,8 +141,8 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
-  api_key: ''
+  provider: 'Google Maps'
+  api_key: 'AIzaSyDoRfA5CP-FBFsKsnAsWf8tVlp2HhFqfI8'
   zoom: 15
 marketing:
   google_analytics: ''

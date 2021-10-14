@@ -34,6 +34,11 @@ social:
     link: https://www.linkedin.com/in/ahaller/
     icon_pack: fab
     icon: linkedin
+  - display:
+      header: false
+    icon_pack: fas
+    icon: arrow-circle-right
+    link: /about/armin-haller
 organizations:
   - name: Australian National University
     url: https://www.anu.edu.au/

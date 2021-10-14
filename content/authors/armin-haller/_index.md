@@ -48,7 +48,7 @@ education:
     - course: Magister in Business Consultancy
       institution: University of Applied Sciences Wiener Neustadt, Austria
       year: 2001
-superuser: false
+superuser: true
 user_groups:
   - Team Leader
 ---

@@ -19,6 +19,12 @@ main:
   - name: Events
     url: '#posts'
     weight: 60
+  - name: Resources
+    url: '#posts'
+    weight: 60
+  - name: Vacancies
+    url: '#vacancies'
+    weight: 60
   - name: Contact
     url: '#contact'
     weight: 80

@@ -1,5 +1,6 @@
 ---
 title: Ehsan Emamirad
+role: PhD Student
 avatar_filename: avatar.jpg
 social: []
 superuser: false

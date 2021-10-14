@@ -23,15 +23,15 @@ twitter: ''
 email: armin.haller@anu.edu.au
 phone: +61 2 612 57324
 address:
-  street: PAP Moran Building
+  street: Room 1051 PAP Moran Building
   city: Canberra
   region: Acton
   postcode: '2601'
   country: Australia
   country_code: AU
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '-35.27695947179163'
+  longitude: '149.1220498690915'
 directions: Enter Building 1 and take the stairs to Office 1051 on Floor 1
 office_hours:
   - 'Tuesday 10:00 to 13:00'

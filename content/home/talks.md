@@ -1,8 +1,8 @@
 ---
 widget: pages
-widget_id: order 3
+widget_id: order 7
 headless: true
-weight: 30
+weight: 70
 title: Recent & Upcoming Talks
 subtitle: null
 active: true

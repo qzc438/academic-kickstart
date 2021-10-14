@@ -8,7 +8,32 @@ interests:
   - Knowledge Graph Engineering
   - Ontololgy Engineering
   - Semantic Web
-social: []
+social:
+  - display:
+      header: false
+    link: /#contact
+    icon_pack: fas
+    icon: envelope
+  - display:
+      header: false
+    link: https://twitter.com/rminHaller
+    icon_pack: fab
+    icon: twitter
+  - display:
+      header: false
+    link: https://scholar.google.com.au/citations?hl=en&user=BehUprAAAAAJ
+    icon_pack: fas
+    icon: graduation-cap
+  - display:
+      header: false
+    link: https://github.com/
+    icon_pack: fab
+    icon: github
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/ahaller/
+    icon_pack: fab
+    icon: linkedin
 organizations:
   - name: Australian National University
     url: https://www.anu.edu.au/

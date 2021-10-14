@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: order 6
+widget_id: Recent Posts
 headless: true
 weight: 60
 title: Recent Posts

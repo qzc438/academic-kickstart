@@ -1,8 +1,8 @@
 ---
 widget: pages
-widget_id: order 6
+widget_id: order 4
 headless: true
-weight: 60
+weight: 40
 title: All Publications
 subtitle: ""
 active: true

@@ -1,6 +1,6 @@
 ---
 widget: people
-widget_id: order 2
+widget_id: Meet Our Team
 headless: true
 weight: 20
 title: Meet Our Team

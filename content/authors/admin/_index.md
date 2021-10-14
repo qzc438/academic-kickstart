@@ -27,16 +27,7 @@ organizations:
   - name: Australian National University
     url: https://www.anu.edu.au/
 education:
-  courses:
-    - course: MBA (Executive)
-      institution: University of New South Wales, Sydney, Australia
-      year: 2017
-    - course: PhD in Computer Science
-      institution: National University of Ireland, Galway
-      year: 2009
-    - course: Magister in Business Consultancy
-      institution: University of Applied Sciences Wiener Neustadt, Austria
-      year: 2003
+  courses: []
 email: ""
 superuser: true
 user_groups: []

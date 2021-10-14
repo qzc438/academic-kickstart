@@ -1,6 +1,6 @@
 ---
 title: Admin
-role: Associate Professor
+role: ""
 avatar_filename: avatar.jpg
 bio: Father, husband, Linked data enthusiast extraordinaire, long time Twitter
   denier, Evangelist @W3CAustralia

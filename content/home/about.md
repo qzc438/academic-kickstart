@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: order 1
+widget_id: Welcome
 headless: true
 weight: 10
 title: Welcome

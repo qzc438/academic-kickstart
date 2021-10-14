@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Armin Haller
-  - Robert Ford
+  - admin
 publication_short: In *ICW*
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin

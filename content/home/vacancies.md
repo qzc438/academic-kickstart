@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: blank
 widget_id: Vacancies
 headless: true
 weight: 90

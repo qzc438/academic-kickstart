@@ -8,8 +8,8 @@ active: true
 content:
   user_groups:
     - Team Leader
-    - Current Member
-    - Former Member
+    - Current Members
+    - Former Members
 design:
   show_social: true
   show_interests: true

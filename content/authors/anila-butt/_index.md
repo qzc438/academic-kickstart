@@ -8,5 +8,5 @@ organizations:
   - name: The Commonwealth Scientific and Industrial Research Organisation
 superuser: false
 user_groups:
-  - Former Member
+  - Former Members
 ---

@@ -8,5 +8,5 @@ organizations:
     name: Australian National University
 superuser: false
 user_groups:
-  - Current Member
+  - Current Members
 ---

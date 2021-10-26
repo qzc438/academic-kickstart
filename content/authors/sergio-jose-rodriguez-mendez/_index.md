@@ -8,5 +8,5 @@ organizations:
     url: https://www.anu.edu.au/
 superuser: false
 user_groups:
-  - Current Member
+  - Current Members
 ---
